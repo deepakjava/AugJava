@@ -1,0 +1,12 @@
+
+
+			ASCII															UNICODE
+==================================================			====================================================
+
+InputStream					OutputStream							InputStream				OutputStream
+============				==============						==================			=============
+1. FileInputStream			FileoutputStream					FileReader					FileWriter
+2. BufferedInputStream		BufferedOutputStream				BufferedReader				BufferedWriter	
+3. ObjectInputStream		ObjectOutputStream				
+4.							PrintStream														PrintWriter
+
